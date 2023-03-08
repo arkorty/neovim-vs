@@ -1,0 +1,10 @@
+source $HOME/.config/nvim/config/vim-plug.vim
+source $HOME/.config/nvim/config/nerdtree.vim
+source $HOME/.config/nvim/config/toggleterm.vim
+source $HOME/.config/nvim/config/coc.vim
+source $HOME/.config/nvim/config/miscellaneous.vim
+source $HOME/.config/nvim/config/neoformat.vim
+source $HOME/.config/nvim/config/indent-blankline.vim
+source $HOME/.config/nvim/config/vim-airline.vim
+source $HOME/.config/nvim/config/colorscheme.vim
+source $HOME/.config/nvim/config/telescope.vim
